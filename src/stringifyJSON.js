@@ -47,4 +47,3 @@ var stringifyJSON = function(str) {
 
 };
 
-debug(stringifyJSON([1, 'false', false]))
